@@ -10,7 +10,7 @@ and looking forward to join more communities.
 ### Languages
 
 
-### [@Hobbies](https://sanyasachdeva1.github.io/My-Website/)
+### [Hobbies](https://sanyasachdeva1.github.io/My-Website/)
 * I love playing my Guitar
 * Dancing 
 * Travelling 
@@ -19,13 +19,13 @@ and looking forward to join more communities.
 
 
 ### Get in touch 
-<ul class="list-unstyled list-social">
+<code><ul class="list-unstyled list-social">
           <li><a href="https://www.facebook.com/sanyasachdeva18" target="_blank"><i class="ion-social-facebook"></i></a></li>
           <li><a href="https://twitter.com/Sanya_Sachdeva_" target="_blank"><i class="ion-social-twitter" ></i></a></li>
           <li><a href="https://www.instagram.com/__sanya_sachdeva__/" target="_blank"><i class="ion-social-instagram-outline"></i></a></li>
           <li><a href="https://www.linkedin.com/in/sanya-sachdeva/" target="_blank"><i class="ion-social-linkedin"></i></a></li>
           <li><a href="https://www.youtube.com/channel/UCnpwuStrReyUWG7PzmUgmag" target="_blank"><i class="ion-social-youtube-outline"></i></a></li>
-</ul>
+</ul></code>
 * Twitter: https://twitter.com/Sanya_Sachdeva_
 * Instagram: https://www.instagram.com/__sanya_sachdeva__/
 * LinkedIn: https://www.linkedin.com/in/sanya-sachdeva/
