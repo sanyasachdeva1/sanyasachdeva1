@@ -1,9 +1,9 @@
-## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
+# <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
 
-### <p align="center">I'm Sanya Sachdeva </p>
+## <p align="center">I'm Sanya Sachdeva </p>
 
 
-## Get in touch 
+### Get in touch 
 * Twitter: https://twitter.com/Sanya_Sachdeva_
 * Instagram: https://www.instagram.com/__sanya_sachdeva__/
 * LinkedIn: https://www.linkedin.com/in/sanya-sachdeva/
