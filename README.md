@@ -11,12 +11,7 @@ and looking forward to join more communities.
 
 
 ### [Hobbies](https://sanyasachdeva1.github.io/My-Website/)
-* I love playing my Guitar
-* Dancing 
-* Travelling 
-* Capturing beautiful moments with my camera 
-* Listening all kinds of Music.
-
+I love playing my Guitar 🎸 Dancing 💃 Travelling ✈️ Capturing beautiful moments with my camera 📸 Listening all kinds of Music 🎧
 
 ### Get in touch 
 <code><ul class="list-unstyled list-social">
