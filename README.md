@@ -1,4 +1,4 @@
-# <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
+## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
 
 ## <p align="center">I'm Sanya Sachdeva </p>
 
