@@ -1,5 +1,6 @@
 <h1 align="center"> Hello 👋 
-## I'm Sanya Sachdeva </h1>
+
+I'm Sanya Sachdeva </h1>
 
 <!--
 - 🔭 I’m currently working on ...
