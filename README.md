@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋 
+<h1 align="center"> Hello 👋 नमस्ते 🙏 Bonjour! 🙋‍♀️
 
 I'm Sanya Sachdeva </h1>
 
