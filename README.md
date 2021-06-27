@@ -1,5 +1,5 @@
-## Hi there 👋 
-## I'm Sanya Sachdeva 
+<a align="center"> ## Hello 👋 
+## I'm Sanya Sachdeva </a>
 
 <!--
 - 🔭 I’m currently working on ...
