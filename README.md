@@ -1,6 +1,6 @@
-<h1 align="center"> Hello नमस्ते 🙏 Bonjour!
+## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour!
 
-I'm Sanya Sachdeva </h1>
+I'm Sanya Sachdeva </p>
 
 <!--
 - 🔭 I’m currently working on ...
