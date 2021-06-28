@@ -1,4 +1,4 @@
-## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
+# <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
 <h2 align="center"> I'm Sanya Sachdeva </h2>
 <p align="center">
 <a href="https://www.instagram.com/__sanya_sachdeva__/">
