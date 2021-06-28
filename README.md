@@ -21,8 +21,10 @@ and looking forward to more such opportunities.
 
 ### Skills
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623775-7a2e9a80-d82b-11eb-9f49-e3d78bf460f9.png" />
-<img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623793-7f8be500-d82b-11eb-9368-288ae7fda36e.png" />
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123624267-ff19b400-d82b-11eb-8ebb-dee5e3f0e0ee.png" />
+<img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623793-7f8be500-d82b-11eb-9368-288ae7fda36e.png" />
+<img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123625945-e90cf300-d82d-11eb-8f83-993191d54290.png" />
+<img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123626001-f75b0f00-d82d-11eb-966e-d926039f2846.png" />
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123625351-4fdddc80-d82d-11eb-939f-36afd14f1e12.png" />
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123625364-52403680-d82d-11eb-8016-ca394ab56030.png" />
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123625369-53716380-d82d-11eb-8cef-84a899584cc1.png" />
@@ -33,7 +35,6 @@ and looking forward to more such opportunities.
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123624345-12c51a80-d82c-11eb-9b44-a10dd7f7abaa.png" />
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123624400-22446380-d82c-11eb-90e3-425f43bdb721.png" />
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623789-7e5ab800-d82b-11eb-88ac-7d7704791e2d.png" />
-
-
+<p>&nbsp;</p>
 ### [Hobbies](https://sanyasachdeva1.github.io/My-Website/)
 I love playing my Guitar 🎸 Dancing 💃 Travelling ✈️ Capturing beautiful moments with camera 📸 Listening all kinds of Music 🎧
