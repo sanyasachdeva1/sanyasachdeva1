@@ -1,6 +1,10 @@
 ## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
 <h2 align="center">I'm Sanya Sachdeva </h2>
 
+<a href="https://www.instagram.com/__sanya_sachdeva__/">
+<img align="middle" alt="Sanya's Instagram" width="22px" src="https://user-images.githubusercontent.com/69337392/123618371-c1199180-d825-11eb-8571-34adeb4e1fd9.png" />
+</a>
+
 ![iconfinder_5296765_camera_instagram_instagram logo_icon_24px](https://user-images.githubusercontent.com/69337392/123618371-c1199180-d825-11eb-8571-34adeb4e1fd9.png)
 ![iconfinder_5296514_bird_tweet_twitter_twitter logo_icon_24px](https://user-images.githubusercontent.com/69337392/123618374-c2e35500-d825-11eb-89c4-7859038ca6e2.png)
 ![iconfinder_5296521_play_video_vlog_youtube_youtube logo_icon_24px](https://user-images.githubusercontent.com/69337392/123618378-c4ad1880-d825-11eb-91dd-6a22b03ef0d7.png)
