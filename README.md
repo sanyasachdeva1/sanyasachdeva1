@@ -2,7 +2,7 @@
 <h2 align="center">I'm Sanya Sachdeva </h2>
 <p align="center">
 <a href="https://www.instagram.com/__sanya_sachdeva__/">
-<img align="center" alt="Sanya's Instagram" src="https://user-images.githubusercontent.com/69337392/123618371-c1199180-d825-11eb-8571-34adeb4e1fd9.png" />
+<img align="center" padding-right:10px alt="Sanya's Instagram" src="https://user-images.githubusercontent.com/69337392/123618371-c1199180-d825-11eb-8571-34adeb4e1fd9.png" />
 </a>
 <a href="https://twitter.com/Sanya_Sachdeva_">
 <img align="center" alt="Sanya's Twitter" src="https://user-images.githubusercontent.com/69337392/123618374-c2e35500-d825-11eb-89c4-7859038ca6e2.png" />
