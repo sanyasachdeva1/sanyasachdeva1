@@ -1,5 +1,11 @@
 ## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
 <h2 align="center">I'm Sanya Sachdeva </h2>
+![iconfinder_5296765_camera_instagram_instagram logo_icon_64px](https://user-images.githubusercontent.com/69337392/123614671-2a97a100-d822-11eb-94b9-539bd1efbb06.png)
+![iconfinder_5296521_play_video_vlog_youtube_youtube logo_icon_64px](https://user-images.githubusercontent.com/69337392/123614672-2b303780-d822-11eb-9a0c-eef9528042d7.png)
+![iconfinder_5296514_bird_tweet_twitter_twitter logo_icon_64px](https://user-images.githubusercontent.com/69337392/123614675-2b303780-d822-11eb-969e-7733b5961ab9.png)
+![iconfinder_5296501_linkedin_network_linkedin logo_icon_64px](https://www.linkedin.com/in/sanya-sachdeva/)
+![iconfinder_5365678_fb_facebook_facebook logo_icon_64px](https://user-images.githubusercontent.com/69337392/123614682-2c616480-d822-11eb-9e28-9bc246d9eb9f.png)
+
 
 ![iconfinder_5296501_linkedin_network_linkedin logo_icon_64px](https://user-images.githubusercontent.com/69337392/123612258-04710180-d820-11eb-99eb-586f3080ea64.png)(https://www.linkedin.com/in/sanya-sachdeva/)
 ![iconfinder_5296514_bird_tweet_twitter_twitter logo_icon_64px](https://user-images.githubusercontent.com/69337392/123612268-063ac500-d820-11eb-90db-31ea25ae53d7.png)(https://twitter.com/Sanya_Sachdeva_)
