@@ -1,5 +1,6 @@
 ## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
-## I'm Sanya Sachdeva
+## <p align="center"> I'm Sanya Sachdeva </p>
+
 <p align="center">
 <a href="https://www.instagram.com/__sanya_sachdeva__/">
 <img align="center" padding-right:10px alt="Sanya's Instagram" src="https://user-images.githubusercontent.com/69337392/123618371-c1199180-d825-11eb-8571-34adeb4e1fd9.png" />
@@ -15,7 +16,7 @@
 </a></p>
 
 ### About me
-I'm <b> *Sanya Sachdeva* </b>, a nineteen years old girl pursuing B.tech in Computer Science and Engineering. I am interested in Data Science, Cloud, Python & Web Developing and do not stop exploring new fields while practising coding! I'm a Campuss Ambassador [@Cisco Systems](https://www.cisco.com/c/en_in/index.html), Gold Tier #IamRemarkable Facilitator [@#IamRemarkable](https://iamremarkable.withgoogle.com/), Vice President [@AI Club](https://www.linkedin.com/company/amity-ai-club/)
+I'm a nineteen years old girl pursuing B.tech in Computer Science and Engineering. I am interested in Data Science, Cloud, Python & Web Developing and do not stop exploring new fields while practising coding! I'm a Campuss Ambassador [@Cisco Systems](https://www.cisco.com/c/en_in/index.html), Gold Tier #IamRemarkable Facilitator [@#IamRemarkable](https://iamremarkable.withgoogle.com/), Vice President [@AI Club](https://www.linkedin.com/company/amity-ai-club/)
 and looking forward to more such opportunities. 
 <img align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
 
