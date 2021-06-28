@@ -36,5 +36,6 @@ and looking forward to more such opportunities.
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123624400-22446380-d82c-11eb-90e3-425f43bdb721.png" />
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623789-7e5ab800-d82b-11eb-88ac-7d7704791e2d.png" />
 <p>&nbsp;</p>
+
 ### [Hobbies](https://sanyasachdeva1.github.io/My-Website/)
 I love playing my Guitar 🎸 Dancing 💃 Travelling ✈️ Capturing beautiful moments with camera 📸 Listening all kinds of Music 🎧
