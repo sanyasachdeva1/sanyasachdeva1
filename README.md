@@ -1,6 +1,13 @@
 ## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
 ## <p align="center">I'm Sanya Sachdeva </p>
 
+![iconfinder_5296501_linkedin_network_linkedin logo_icon_64px](https://user-images.githubusercontent.com/69337392/123612258-04710180-d820-11eb-99eb-586f3080ea64.png)
+![iconfinder_5296514_bird_tweet_twitter_twitter logo_icon_64px](https://user-images.githubusercontent.com/69337392/123612268-063ac500-d820-11eb-90db-31ea25ae53d7.png)
+![iconfinder_5296521_play_video_vlog_youtube_youtube logo_icon_64px](https://user-images.githubusercontent.com/69337392/123612278-076bf200-d820-11eb-8036-7027b0f34171.png)
+![iconfinder_5296765_camera_instagram_instagram logo_icon_64px](https://user-images.githubusercontent.com/69337392/123612293-0935b580-d820-11eb-9ea3-888b32489337.png)
+![iconfinder_5365678_fb_facebook_facebook logo_icon_64px](https://user-images.githubusercontent.com/69337392/123612310-0cc93c80-d820-11eb-9aa0-b8e1d3e8c40c.png)
+
+
 ### About me
 I'm a nineteen years old girl pursuing B.tech in Computer Science and Engineering. I am interested in Data Science, Cloud, Python & Web Developing and do not stop exploring new fields while practising coding! I'm a Campuss Ambassador [@Cisco Systems](https://www.cisco.com/c/en_in/index.html), Gold Tier #IamRemarkable Facilitator [@#IamRemarkable](https://iamremarkable.withgoogle.com/), Vice President [@AI Club](https://www.linkedin.com/company/amity-ai-club/). 
 and looking forward to join more communities. 
