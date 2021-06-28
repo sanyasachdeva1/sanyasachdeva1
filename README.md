@@ -14,6 +14,8 @@
 ### About me
 I'm a nineteen years old girl pursuing B.tech in Computer Science and Engineering. I am interested in Data Science, Cloud, Python & Web Developing and do not stop exploring new fields while practising coding! I'm a Campuss Ambassador [@Cisco Systems](https://www.cisco.com/c/en_in/index.html), Gold Tier #IamRemarkable Facilitator [@#IamRemarkable](https://iamremarkable.withgoogle.com/), Vice President [@AI Club](https://www.linkedin.com/company/amity-ai-club/). 
 and looking forward to join more communities. 
+<img align="right" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
+
 
 ### Languages
 
