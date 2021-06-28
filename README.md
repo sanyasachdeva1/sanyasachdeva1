@@ -1,5 +1,5 @@
-<p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
-<h2 align="center"> I'm Sanya Sachdeva </h2>
+## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
+## <p align="center"> I'm Sanya Sachdeva </p>
 <p align="center">
 <a href="https://www.instagram.com/__sanya_sachdeva__/">
 <img align="center" padding-right:10px alt="Sanya's Instagram" src="https://user-images.githubusercontent.com/69337392/123618371-c1199180-d825-11eb-8571-34adeb4e1fd9.png" />
