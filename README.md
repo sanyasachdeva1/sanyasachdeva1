@@ -1,6 +1,6 @@
 ## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
 <h2 align="center">I'm Sanya Sachdeva </h2>
-
+<p align="center">
 <a href="https://www.instagram.com/__sanya_sachdeva__/">
 <img align="center" alt="Sanya's Instagram" src="https://user-images.githubusercontent.com/69337392/123618371-c1199180-d825-11eb-8571-34adeb4e1fd9.png" />
 </a>
@@ -12,7 +12,7 @@
 </a>
 <a href="https://www.linkedin.com/in/sanya-sachdeva/">
 <img align="center" alt="Sanya's LinkedIn" src="https://user-images.githubusercontent.com/69337392/123618382-c5de4580-d825-11eb-9b4d-74015a4edb3f.png" />
-</a>
+</a></p>
 
 ### About me
 I'm a nineteen years old girl pursuing B.tech in Computer Science and Engineering. I am interested in Data Science, Cloud, Python & Web Developing and do not stop exploring new fields while practising coding! I'm a Campuss Ambassador [@Cisco Systems](https://www.cisco.com/c/en_in/index.html), Gold Tier #IamRemarkable Facilitator [@#IamRemarkable](https://iamremarkable.withgoogle.com/), Vice President [@AI Club](https://www.linkedin.com/company/amity-ai-club/)
