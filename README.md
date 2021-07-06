@@ -11,7 +11,9 @@
 </a> &nbsp;&nbsp;&nbsp;                
 <a href="https://www.linkedin.com/in/sanya-sachdeva/">
 <img align="center" alt="Sanya's LinkedIn" src="https://user-images.githubusercontent.com/69337392/123618382-c5de4580-d825-11eb-9b4d-74015a4edb3f.png" />
-</a></p>
+</a>
+  <i class="fas fa-briefcase"> <a href="https://sanyasachdeva1.github.io/Portfolio/"> </a> </i>
+</p>
 
 I'm <b> *Sanya Sachdeva* </b>, a nineteen years old girl pursuing B.tech in Computer Science and Engineering. I am interested in Data Science, Cloud, Python & Web Developing and do not stop exploring new fields while practising coding! I'm a Campuss Ambassador [@Cisco Systems](https://www.cisco.com/c/en_in/index.html), Gold Tier #IamRemarkable Facilitator [@#IamRemarkable](https://iamremarkable.withgoogle.com/), Vice President [@AI Club](https://www.linkedin.com/company/amity-ai-club/)
 and looking forward to more such opportunities. 
