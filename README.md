@@ -17,7 +17,7 @@
 I'm <b> *Sanya Sachdeva* </b>, a nineteen years old girl pursuing B.tech in Computer Science and Engineering. I am interested in Data Science, Cloud, Python & Web Developing and do not stop exploring new fields while practising coding! I'm a Campuss Ambassador [@Cisco Systems](https://www.cisco.com/c/en_in/index.html), Gold Tier #IamRemarkable Facilitator [@#IamRemarkable](https://iamremarkable.withgoogle.com/), Vice President [@AI Club](https://www.linkedin.com/company/amity-ai-club/)
 and looking forward to more such opportunities. 
 
-<img height="220px" align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
+<img height="200px" align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
 
 ### Skills
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623775-7a2e9a80-d82b-11eb-9f49-e3d78bf460f9.png" />
