@@ -41,3 +41,5 @@ and looking forward to more such opportunities.
 
 ### [Hobbies](https://sanyasachdeva1.github.io/My-Website/)
 I love playing my Guitar 🎸 Dancing 💃 Travelling ✈️ Capturing beautiful moments with camera 📸 Listening all kinds of Music 🎧
+
+<img height="100px" align="center" src="https://github-readme-stats.vercel.app/api/?username=sanyasachdeva1" />
