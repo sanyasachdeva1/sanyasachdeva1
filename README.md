@@ -18,7 +18,7 @@ I'm <b> *Sanya Sachdeva* </b>, a nineteen years old girl pursuing B.tech in Comp
 and looking forward to more such opportunities. 
 
 <img align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
-
+<img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/?username=sanyasachdeva1" />
 ### Skills
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623775-7a2e9a80-d82b-11eb-9f49-e3d78bf460f9.png" />
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123624267-ff19b400-d82b-11eb-8ebb-dee5e3f0e0ee.png" />
@@ -41,5 +41,3 @@ and looking forward to more such opportunities.
 
 ### [Hobbies](https://sanyasachdeva1.github.io/My-Website/)
 I love playing my Guitar 🎸 Dancing 💃 Travelling ✈️ Capturing beautiful moments with camera 📸 Listening all kinds of Music 🎧
-
-<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/?username=sanyasachdeva1" />
