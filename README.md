@@ -21,7 +21,6 @@ and looking forward to more such opportunities.
 <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/?username=sanyasachdeva1" />
 
 ### Check out my Cloud Skills and view my projects with the Challenge @[#100DaysOfCloud](https://github.com/sanyasachdeva1/100DaysOfCloud)  
-<p>&nbsp;</p>
 
 ### Check out my [Portfolio](https://sanyasachdeva1.github.io/Portfolio/) to know more about me 
 
