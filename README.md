@@ -20,8 +20,7 @@ and looking forward to more such opportunities.
 <img align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
 <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/?username=sanyasachdeva1" />
 
-### Skills
-Check out my Cloud Skills and project @[Portfolio](https://sanyasachdeva1.github.io/Portfolio/)
+### Check out my Cloud Skills and view my projects with the Challenge @[#100DaysOfCloud](https://github.com/sanyasachdeva1/100DaysOfCloud)  
 <p>&nbsp;</p>
 
 ### Check out my [Portfolio](https://sanyasachdeva1.github.io/Portfolio/) to know more about me 
