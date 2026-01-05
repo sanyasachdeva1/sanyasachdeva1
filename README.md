@@ -11,8 +11,6 @@
 </a>
 </p>
 
-I'm <b> *Sanya Sachdeva* </b>
-
 <img align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
 <p align="center"/>
 
