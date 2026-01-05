@@ -11,15 +11,10 @@
 </a>
 </p>
 
-I'm <b> *Sanya Sachdeva* </b>, a twenty years old girl pursuing B.tech in Computer Science and Engineering. I am interested in Cloud Computing and do not stop exploring Cloud more and more while practising coding! I'm a Campuss Ambassador [@Cisco Systems](https://www.cisco.com/c/en_in/index.html), Gold Tier #IamRemarkable Facilitator [@#IamRemarkable](https://iamremarkable.withgoogle.com/), Vice President [@Overall Coordination Amity IIC](https://www.instagram.com/amityuniversityiic/), Member Secretary [@AI Club](https://www.linkedin.com/company/amity-ai-club/)
-and looking forward to more such opportunities. 
+I'm <b> *Sanya Sachdeva* </b>
 
 <img align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
 <p align="center"/>
-
-* Check out my Cloud Skills and view my projects with the Challenge @[#100DaysOfCloud](https://github.com/sanyasachdeva1/100DaysOfCloud)  
-
-* Check out my [Portfolio](https://sanyasachdeva1.github.io/Portfolio/) to know more about me 
 
 ### [Hobbies](https://sanyasachdeva1.github.io/My-Website/)
 I love playing my Guitar 🎸 Dancing 💃 Travelling ✈️ Capturing beautiful moments with camera 📸 Listening all kinds of Music 🎧
