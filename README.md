@@ -14,6 +14,8 @@
 <img align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
 <p align="center"/>
 
-### [Hobbies](https://sanyasachdeva1.github.io/My-Website/)
-I love playing my Guitar 🎸 Dancing 💃 Travelling ✈️ Capturing beautiful moments with camera 📸 Listening all kinds of Music 🎧
+Cybersecurity & Network Security Engineer @ Cisco 
+
+Zero Trust, Wireless Security, Python Automation, Incident Response
+
 </p>
