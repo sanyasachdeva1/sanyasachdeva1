@@ -12,7 +12,7 @@
 
 I’m **Sanya Sachdeva**, a **Cybersecurity & Network Security Engineer at Cisco**, focused on **Wireless Security, Zero Trust, Detection Engineering, Incident Response, and Security Automation**.
 
-Currently working as a **Technical Consulting Engineer / Team Lead**, where I troubleshoot complex enterprise wireless and security issues, build automation workflows, support global customers, and contribute to scalable technical knowledge across Cisco platforms.
+Currently working as a **Technical Consulting Engineer II / Team Lead**, where I troubleshoot complex enterprise wireless and security issues, build automation workflows, support global customers, and contribute to scalable technical knowledge across Cisco platforms.
 
 I’m actively building toward roles in:
 - SOC Detection Engineering  
