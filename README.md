@@ -1,11 +1,9 @@
 <h2 align="center">Hello 👋 नमस्ते 🙏 Bonjour!</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white"></a>
   <a href="https://x.com/Sanya_Sachdeva_"><img src="https://img.shields.io/badge/X-Connect-black?logo=x"></a>
   <a href="https://www.linkedin.com/in/sanya-sachdeva"><img src="https://img.shields.io/badge/LinkedIn-Sanya%20Sachdeva-blue?logo=linkedin"></a>
   <a href="https://medium.com/@sanyasachdeva40_82641"><img src="https://img.shields.io/badge/Medium-Read%20Blogs-black?logo=medium"></a>
-  <a href="https://github.com/sanyasachdeva1"><img src="https://img.shields.io/badge/GitHub-sanyasachdeva1-181717?logo=github"></a>
   <a href="mailto:sanyasachdeva40@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
 </p>
 
