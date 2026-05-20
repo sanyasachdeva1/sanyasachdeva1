@@ -3,9 +3,10 @@
 <p align="center">
   <a href="https://x.com/Sanya_Sachdeva_"><img src="https://img.shields.io/badge/X-Connect-black?logo=x"></a>
   <a href="https://www.linkedin.com/in/sanya-sachdeva"><img src="https://img.shields.io/badge/LinkedIn-Sanya%20Sachdeva-blue?logo=linkedin"></a>
-  <a href="https://medium.com/@sanyasachdeva40_82641"><img src="https://img.shields.io/badge/Medium-Read%20Blogs-black?logo=medium"></a>
+  <a href="https://medium.com/@sanyasachdeva"><img src="https://img.shields.io/badge/Medium-Read%20Blogs-black?logo=medium"></a>
   <a href="mailto:sanyasachdeva40@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
 </p>
+
 
 ---
 
