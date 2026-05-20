@@ -1,21 +1,107 @@
-## <p align="center"> Hello 👋 नमस्ते 🙏 Bonjour! </p>
+<h2 align="center">Hello 👋 नमस्ते 🙏 Bonjour!</h2>
+
 <p align="center">
-<a href="https://www.instagram.com/_just_a_techie_/">
-<img align="center" padding-right:10px alt="Sanya's Instagram" src="https://user-images.githubusercontent.com/69337392/123618371-c1199180-d825-11eb-8571-34adeb4e1fd9.png" />
-</a> &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Sanya_Sachdeva_">
-<img align="center" alt="Sanya's Twitter" src="https://user-images.githubusercontent.com/69337392/123618374-c2e35500-d825-11eb-89c4-7859038ca6e2.png" />
-</a> &nbsp;&nbsp;&nbsp;                                               
-<a href="https://www.linkedin.com/in/sanya-sachdeva/">
-<img align="center" alt="Sanya's LinkedIn" src="https://user-images.githubusercontent.com/69337392/123618382-c5de4580-d825-11eb-9b4d-74015a4edb3f.png" />
-</a>
+  <a href="https://www.linkedin.com/in/sanya-sachdeva"><img src="https://img.shields.io/badge/LinkedIn-Sanya%20Sachdeva-blue?logo=linkedin"></a>
+  <a href="https://github.com/sanyasachdeva1"><img src="https://img.shields.io/badge/GitHub-sanyasachdeva1-black?logo=github"></a>
+  <a href="mailto:sanyasachdeva40@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
 </p>
 
-<img align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
-<p align="center"/>
+---
 
-Cybersecurity & Network Security Engineer @ Cisco 
+### 👩‍💻 About Me
 
-Zero Trust, Wireless Security, Python Automation, Incident Response
+I’m **Sanya Sachdeva**, a **Cybersecurity & Network Security Engineer at Cisco**, focused on **Wireless Security, Zero Trust, Detection Engineering, Incident Response, and Security Automation**.
 
-</p>
+Currently working as a **Technical Consulting Engineer / Team Lead**, where I troubleshoot complex enterprise wireless and security issues, build automation workflows, support global customers, and contribute to scalable technical knowledge across Cisco platforms.
+
+I’m actively building toward roles in:
+- SOC Detection Engineering  
+- Threat Detection & Response  
+- Security Automation  
+- Cloud & Network Security  
+- Zero Trust Architecture  
+
+---
+
+### 🔐 Security Focus Areas
+- Detection Engineering & Threat Hunting  
+- MITRE ATT&CK Mapping  
+- Zero Trust Architecture  
+- Wireless Security: 802.1X, WiFi 7, 5G, RF  
+- Incident Response & Packet-Level Forensics  
+- SIEM/SOAR Workflows  
+- Cloud IAM & Access Security  
+- Vulnerability Assessment  
+
+---
+
+### 🧰 Tech Stack
+
+**Security Tools:** Splunk, Wireshark, Nmap, Nessus, Burp Suite, Microsoft Defender, SOAR, Grafana  
+**Frameworks:** MITRE ATT&CK, NIST CSF, ISO 27001, OWASP, SOC 2, CIA Triad, AAA  
+**Cloud & Networking:** AWS IAM, GCP IAM, Kubernetes, TCP/IP, IPSec, SSL/TLS, SAML, SSO, 802.1X  
+**Programming:** Python, Bash, SQL, PowerShell, Linux/UNIX, HTML, CSS  
+
+---
+
+### 🚀 Highlight Projects
+
+#### 🔹 Wireless Zero Trust Threat Detection & Response Lab
+Built a Python + Scapy based wireless IDS to detect **802.11 deauthentication attacks** using packet-level analysis.
+
+**Key features:**
+- Raw packet inspection with Scapy  
+- MITRE ATT&CK mapping  
+- SIEM-style logging  
+- Identity-based alerting  
+- SOAR-style response workflow  
+- Zero Trust access enforcement concept  
+
+---
+
+#### 🔹 Python Security Automation Scripts
+A collection of Python scripts for SOC and security automation workflows.
+
+**Includes:**
+- Log parsing  
+- IOC checks  
+- Nmap output parsing  
+- IAM policy review logic  
+- Basic alert enrichment workflows  
+
+---
+
+### 🏆 Career Highlights
+- Promoted to **Grade 6 / Team Lead at Cisco**
+- Achieved **100% CSAT on critical Sev1/Sev2 incidents**
+- Improved operational efficiency from **28.8% to 95.8%** using automation
+- Built enterprise-scale labs used in resolving **600+ security incidents**
+- Supported security adoption content reaching **150K+ professionals on LinkedIn** and **2M+ users across Cisco platforms**
+- Selected as a **Top 3 “Face of Cisco” candidate globally**
+
+---
+
+### 📜 Certifications
+- Google Cybersecurity Specialization  
+- Microsoft SC-900: Security, Compliance, and Identity Fundamentals  
+- Cisco Certified DevNet Associate  
+- Cisco Certified Network Associate  
+- AWS Certified Cloud Practitioner  
+
+**Planned:** CEH, CISSP  
+
+---
+
+### 📌 Currently Learning
+- Advanced Detection Engineering  
+- Sigma Rules  
+- Splunk SPL  
+- Threat Hunting Labs  
+- Cloud Security Detection  
+- AI in Cybersecurity  
+
+---
+
+### ✨ Personal Motto
+> Built on discipline. Driven by curiosity.  
+> Optimising for bigger arenas.
