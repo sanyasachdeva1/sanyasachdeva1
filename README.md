@@ -24,7 +24,6 @@ I’m actively building toward roles in:
 - Zero Trust Architecture  
 
 ---
-
 ### 🔐 Security Focus Areas
 - Detection Engineering & Threat Hunting  
 - MITRE ATT&CK Mapping  
@@ -33,10 +32,9 @@ I’m actively building toward roles in:
 - Incident Response & Packet-Level Forensics  
 - SIEM/SOAR Workflows  
 - Cloud IAM & Access Security  
-- Vulnerability Assessment  
-
+- Vulnerability Assessment
+  
 ---
-
 ### 🧰 Tech Stack
 
 **Security Tools:** Splunk, Wireshark, Nmap, Nessus, Burp Suite, Microsoft Defender, SOAR, Grafana  
@@ -45,34 +43,6 @@ I’m actively building toward roles in:
 **Programming:** Python, Bash, SQL, PowerShell, Linux/UNIX, HTML, CSS  
 
 ---
-
-### 🚀 Highlight Projects
-
-#### 🔹 Wireless Zero Trust Threat Detection & Response Lab
-Built a Python + Scapy based wireless IDS to detect **802.11 deauthentication attacks** using packet-level analysis.
-
-**Key features:**
-- Raw packet inspection with Scapy  
-- MITRE ATT&CK mapping  
-- SIEM-style logging  
-- Identity-based alerting  
-- SOAR-style response workflow  
-- Zero Trust access enforcement concept  
-
----
-
-#### 🔹 Python Security Automation Scripts
-A collection of Python scripts for SOC and security automation workflows.
-
-**Includes:**
-- Log parsing  
-- IOC checks  
-- Nmap output parsing  
-- IAM policy review logic  
-- Basic alert enrichment workflows  
-
----
-
 ### 🏆 Career Highlights
 - Promoted to **Grade 6 / Team Lead at Cisco**
 - Achieved **100% CSAT on critical Sev1/Sev2 incidents**
@@ -82,7 +52,6 @@ A collection of Python scripts for SOC and security automation workflows.
 - Selected as a **Top 3 “Face of Cisco” candidate globally**
 
 ---
-
 ### 📜 Certifications
 - Google Cybersecurity Specialization  
 - Microsoft SC-900: Security, Compliance, and Identity Fundamentals  
@@ -103,7 +72,6 @@ A collection of Python scripts for SOC and security automation workflows.
 - AI in Cybersecurity  
 
 ---
-
 ### ✨ Personal Motto
 > Built on discipline. Driven by curiosity.  
 > Optimising for bigger arenas.
